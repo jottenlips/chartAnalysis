@@ -18,9 +18,16 @@ print(links,"\n" ,titles, "\n", briefs)
 
 
 # BeautifulSoup way
-#
-# urlRequest = 'http://hosted.ap.org/dynamic/fronts/HOME?SITE=AP&SECTION=HOME'
-# page = requests.get(urlRequest)
-# soup = BeautifulSoup(page.content,'lxml')
-# links = soup.find_all('a',class_="ap-newsbriefitem-a")
-# print("--------acree-----------\n",links)
+
+urlRequest = 'http://hosted.ap.org/dynamic/fronts/HOME?SITE=AP&SECTION=HOME'
+page = requests.get(urlRequest)
+soup = BeautifulSoup(page.content,'lxml')
+position = soup.find("div", class_="ap-newsbriefitem")
+headline = position.find('a').string
+brief = position.find('span',class_="topheadlinebody").string
+apOffice = brief.split(' (AP) ')[0]
+fullStory = 'hosted.ap.org' + position.find('a').get("href")
+# ctime = fullStory.split("CTIME=")[1]
+# links = soup.find_all('a',class_="ap-newsbriefitem-a").get("href")
+
+print("--------acree-----------\n",headline,brief,apOffice,fullStory)
