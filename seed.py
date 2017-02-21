@@ -54,7 +54,7 @@ postingsFile = today + '.seed-db.json'
 #Write response to JSON file in another location
 #postingsFile = '/APBriefs/' + today + '.APNewsBriefs.json'
 # w for text wb for binary
-with open(postingsFile, 'w') as outfile:
+with open("/Users/johnottenlips/chartAnalysis/json/"+postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
 
 outfile.close()
