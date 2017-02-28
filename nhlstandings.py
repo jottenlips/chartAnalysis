@@ -98,7 +98,7 @@ postingsFile = today + '.nhlstandings.json'
 for num in range(len(teams)):
     response.append({'Team': teams[num], 'Win': w[num], 'Loss': l[num], 'Over Time': ot[num],
                     'Points': pts[num], 'Regulation Overtime Wins': regovertimewins[num],'GF': gf[num],
-                     'GA': ga[num], 'Home': home[num], 'Road': road[num], 'L10': L10[num], 'Streak': streak[num]})
+                     'GA': ga[num], 'Home': home[num], 'Road': road[num], 'L10': L10[num], 'Streak': streak[num], 'Date Pulled': today, 'Source': url})
 
 
 #Write response to JSON file in another location
