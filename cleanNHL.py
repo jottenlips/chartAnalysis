@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
+import json, requests
+
 
 import os
 
@@ -20,18 +22,46 @@ data2 = pd.read_json(filename2)
 fileNames = []
 for file in os.listdir('json'):
     fileNames.append('/Users/johnottenlips/chartAnalysis/json/'+file)
-print(fileNames)
+# print(fileNames)
 
 jsonData = []
 count = 0;
 for fileName in fileNames:
-    json = pd.read_json(fileName)
-    jsonData.append(json)
+    with open(fileName) as json_data:
+        d = json.load(json_data)
+        # print(d)
+    jsonData.append(d)
     count+=1;
-print(jsonData[0].Win)
-print(jsonData[1].Win)
+# print(jsonData[0][0]["Team"])
 
-print(count)
+
+print(jsonData[0])
+for i in range(len(jsonData)):
+    for j in range(len(jsonData[i])):
+        try:
+            if "Division" in jsonData[i][j]["Team"]:
+                division = jsonData[i][j]["Team"]
+                jsonData[i][j]["division"] = "DeleteRow";
+            else:
+                jsonData[i][j]["division"] = division;
+                print(jsonData[i][j])
+        except:
+                pass
+for for i in range(len(jsonData)):
+
+
+
+print(i," ", j)
+print(len(fileNames))
+for i in range(len(jsonData)):
+    with open("/Users/johnottenlips/chartAnalysis/cleanjson/"+fileNames[i], 'w') as outfile:
+        json.dump(response, outfile, sort_keys=True, indent=2)
+        outfile.close()
+
+
+
+
+# print(count)
 
 # realData = []
 # for i in range(len(jsonData)):
