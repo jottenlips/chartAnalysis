@@ -47,10 +47,8 @@ for i in range(len(jsonData)):
                 print(jsonData[i][j])
         except:
                 pass
-for for i in range(len(jsonData)):
-
-
-
+# for for i in range(len(jsonData)):
+    
 print(i," ", j)
 print(len(fileNames))
 for i in range(len(jsonData)):
