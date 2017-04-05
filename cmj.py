@@ -8,7 +8,6 @@ import json
 
 today = str(datetime.datetime.now()).split(' ')
 
-
 page = requests.get('https://www.cmj.com/category/charts/')
 tree = html.fromstring(page.content)
 links = tree.xpath('//span/a/@href')
