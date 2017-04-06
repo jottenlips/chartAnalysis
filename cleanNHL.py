@@ -48,11 +48,14 @@ for i in range(len(jsonData)):
         except:
                 pass
 # for for i in range(len(jsonData)):
-    
+
+print(fileNames)
+
 print(i," ", j)
 print(len(fileNames))
 for i in range(len(jsonData)):
-    with open("/Users/johnottenlips/chartAnalysis/cleanjson/"+fileNames[i], 'w') as outfile:
+    response = jsonData[i]
+    with open("/Users/johnottenlips/chartAnalysis/cleanjson/"+"clean"+fileNames[i].split("/json/")[1], 'w') as outfile:
         json.dump(response, outfile, sort_keys=True, indent=2)
         outfile.close()
 
