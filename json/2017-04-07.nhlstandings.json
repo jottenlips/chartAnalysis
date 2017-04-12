@@ -1,6 +1,6 @@
 [
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "GA",
     "GF": "GF",
     "Home": "HOME",
@@ -16,7 +16,7 @@
     "Win": "W"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "194",
     "GF": "221",
     "Home": "24-11-5",
@@ -32,7 +32,7 @@
     "Win": "46"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "209",
     "GF": "207",
     "Home": "21-11-8",
@@ -44,11 +44,11 @@
     "Road": "22-16-2",
     "Source": "http://www.cbssports.com/nhl/standings",
     "Streak": "W2",
-    "Team": "Ottawa",
+    "Team": null,
     "Win": "43"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "209",
     "GF": "233",
     "Home": "23-16-1",
@@ -64,7 +64,7 @@
     "Win": "44"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "236",
     "GF": "244",
     "Home": "20-12-7",
@@ -80,7 +80,7 @@
     "Win": "39"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "223",
     "GF": "226",
     "Home": "22-14-4",
@@ -96,7 +96,7 @@
     "Win": "40"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "230",
     "GF": "199",
     "Home": "20-15-6",
@@ -112,7 +112,7 @@
     "Win": "33"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "237",
     "GF": "205",
     "Home": "18-19-3",
@@ -128,7 +128,7 @@
     "Win": "33"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "240",
     "GF": "201",
     "Home": "16-17-6",
@@ -144,7 +144,7 @@
     "Win": "32"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "GA",
     "GF": "GF",
     "Home": "HOME",
@@ -160,7 +160,7 @@
     "Win": "W"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "179",
     "GF": "260",
     "Home": "32-6-2",
@@ -176,7 +176,7 @@
     "Win": "54"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "226",
     "GF": "277",
     "Home": "31-6-4",
@@ -192,7 +192,7 @@
     "Win": "50"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "189",
     "GF": "244",
     "Home": "28-12-1",
@@ -208,7 +208,7 @@
     "Win": "49"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "215",
     "GF": "252",
     "Home": "20-16-4",
@@ -224,7 +224,7 @@
     "Win": "47"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "238",
     "GF": "233",
     "Home": "21-12-7",
@@ -240,7 +240,7 @@
     "Win": "39"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "230",
     "GF": "212",
     "Home": "24-11-4",
@@ -256,7 +256,7 @@
     "Win": "38"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "228",
     "GF": "207",
     "Home": "23-12-5",
@@ -272,7 +272,7 @@
     "Win": "35"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "236",
     "GF": "180",
     "Home": "16-16-8",
@@ -288,7 +288,7 @@
     "Win": "28"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "GA",
     "GF": "GF",
     "Home": "HOME",
@@ -304,39 +304,39 @@
     "Win": "W"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "206",
+    "Date Pulled": "2017-04-07",
+    "GA": "210",
     "GF": "242",
     "Home": "26-10-5",
-    "L10": "5-2-3",
-    "Loss": "22",
+    "L10": "4-3-3",
+    "Loss": "23",
     "Over Time": "8",
     "Points": "108",
     "Regulation Overtime Wins": "46",
-    "Road": "24-12-3",
+    "Road": "24-13-3",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L2",
+    "Streak": "L3",
     "Team": null,
     "Win": "50"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "204",
-    "GF": "259",
+    "Date Pulled": "2017-04-07",
+    "GA": "207",
+    "GF": "263",
     "Home": "27-12-2",
-    "L10": "4-4-2",
+    "L10": "5-3-2",
     "Loss": "25",
     "Over Time": "8",
-    "Points": "102",
-    "Regulation Overtime Wins": "44",
-    "Road": "20-13-6",
+    "Points": "104",
+    "Regulation Overtime Wins": "45",
+    "Road": "21-13-6",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W2",
+    "Streak": "W3",
     "Team": null,
-    "Win": "47"
+    "Win": "48"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "212",
     "GF": "227",
     "Home": "23-12-5",
@@ -352,23 +352,23 @@
     "Win": "44"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "219",
-    "GF": "232",
+    "Date Pulled": "2017-04-07",
+    "GA": "222",
+    "GF": "239",
     "Home": "24-9-8",
-    "L10": "5-4-1",
+    "L10": "6-3-1",
     "Loss": "28",
     "Over Time": "12",
-    "Points": "92",
-    "Regulation Overtime Wins": "38",
-    "Road": "16-19-4",
+    "Points": "94",
+    "Regulation Overtime Wins": "39",
+    "Road": "17-19-4",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L2",
+    "Streak": "W1",
     "Team": null,
-    "Win": "40"
+    "Win": "41"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "255",
     "GF": "247",
     "Home": "21-18-1",
@@ -384,39 +384,39 @@
     "Win": "39"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "252",
-    "GF": "216",
-    "Home": "21-12-6",
+    "Date Pulled": "2017-04-07",
+    "GA": "259",
+    "GF": "219",
+    "Home": "21-13-6",
     "L10": "5-4-1",
-    "Loss": "36",
+    "Loss": "37",
     "Over Time": "11",
     "Points": "77",
     "Regulation Overtime Wins": "33",
     "Road": "12-24-5",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W1",
+    "Streak": "L1",
     "Team": null,
     "Win": "33"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "267",
-    "GF": "158",
-    "Home": "13-25-2",
+    "Date Pulled": "2017-04-07",
+    "GA": "271",
+    "GF": "161",
+    "Home": "13-26-2",
     "L10": "2-8-0",
-    "Loss": "54",
+    "Loss": "55",
     "Over Time": "3",
     "Points": "47",
     "Regulation Overtime Wins": "21",
     "Road": "9-29-1",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W1",
+    "Streak": "L1",
     "Team": null,
     "Win": "22"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "GA",
     "GF": "GF",
     "Home": "HOME",
@@ -432,115 +432,115 @@
     "Win": "W"
   },
   {
-    "Date Pulled": "2017-04-06",
+    "Date Pulled": "2017-04-07",
     "GA": "197",
-    "GF": "215",
-    "Home": "27-8-4",
-    "L10": "7-0-3",
+    "GF": "219",
+    "Home": "28-8-4",
+    "L10": "8-0-2",
     "Loss": "23",
     "Over Time": "13",
-    "Points": "101",
-    "Regulation Overtime Wins": "41",
+    "Points": "103",
+    "Regulation Overtime Wins": "42",
     "Road": "17-15-9",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W2",
+    "Streak": "W3",
     "Team": null,
-    "Win": "44"
+    "Win": "45"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "206",
-    "GF": "235",
+    "Date Pulled": "2017-04-07",
+    "GA": "208",
+    "GF": "239",
     "Home": "24-12-4",
     "L10": "8-2-0",
     "Loss": "26",
     "Over Time": "9",
-    "Points": "97",
-    "Regulation Overtime Wins": "40",
-    "Road": "20-14-5",
+    "Points": "99",
+    "Regulation Overtime Wins": "41",
+    "Road": "21-14-5",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L1",
+    "Streak": "W1",
     "Team": null,
-    "Win": "44"
+    "Win": "45"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "196",
-    "GF": "216",
-    "Home": "25-10-4",
+    "Date Pulled": "2017-04-07",
+    "GA": "200",
+    "GF": "218",
+    "Home": "25-11-4",
     "L10": "3-7-0",
-    "Loss": "28",
+    "Loss": "29",
     "Over Time": "7",
     "Points": "97",
     "Regulation Overtime Wins": "43",
     "Road": "20-18-3",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W2",
+    "Streak": "L1",
     "Team": null,
     "Win": "45"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "217",
-    "GF": "221",
+    "Date Pulled": "2017-04-07",
+    "GA": "218",
+    "GF": "225",
     "Home": "24-17-0",
     "L10": "5-5-0",
     "Loss": "32",
     "Over Time": "4",
-    "Points": "92",
-    "Regulation Overtime Wins": "40",
-    "Road": "20-15-4",
+    "Points": "94",
+    "Regulation Overtime Wins": "41",
+    "Road": "21-15-4",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L2",
+    "Streak": "W1",
     "Team": null,
-    "Win": "44"
+    "Win": "45"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "195",
-    "GF": "194",
-    "Home": "22-15-2",
-    "L10": "5-5-0",
-    "Loss": "34",
+    "Date Pulled": "2017-04-07",
+    "GA": "199",
+    "GF": "195",
+    "Home": "22-16-2",
+    "L10": "4-6-0",
+    "Loss": "35",
     "Over Time": "7",
     "Points": "83",
     "Regulation Overtime Wins": "36",
     "Road": "16-19-5",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "W1",
+    "Streak": "L1",
     "Team": null,
     "Win": "38"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "231",
-    "GF": "175",
-    "Home": "18-16-6",
-    "L10": "2-8-0",
-    "Loss": "40",
-    "Over Time": "9",
-    "Points": "69",
-    "Regulation Overtime Wins": "26",
-    "Road": "12-24-3",
+    "Date Pulled": "2017-04-07",
+    "GA": "257",
+    "GF": "196",
+    "Home": "18-17-5",
+    "L10": "4-5-1",
+    "Loss": "41",
+    "Over Time": "10",
+    "Points": "70",
+    "Regulation Overtime Wins": "24",
+    "Road": "12-24-5",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L5",
+    "Streak": "W1",
     "Team": null,
     "Win": "30"
   },
   {
-    "Date Pulled": "2017-04-06",
-    "GA": "254",
-    "GF": "192",
-    "Home": "17-17-5",
-    "L10": "3-6-1",
+    "Date Pulled": "2017-04-07",
+    "GA": "235",
+    "GF": "178",
+    "Home": "18-16-6",
+    "L10": "2-8-0",
     "Loss": "41",
-    "Over Time": "10",
-    "Points": "68",
-    "Regulation Overtime Wins": "23",
-    "Road": "12-24-5",
+    "Over Time": "9",
+    "Points": "69",
+    "Regulation Overtime Wins": "26",
+    "Road": "12-25-3",
     "Source": "http://www.cbssports.com/nhl/standings",
-    "Streak": "L1",
+    "Streak": "L6",
     "Team": null,
-    "Win": "29"
+    "Win": "30"
   }
 ]
