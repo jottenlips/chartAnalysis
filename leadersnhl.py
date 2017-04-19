@@ -1,6 +1,3 @@
-# http://www.espn.com/nhl/statistics
-# //*[@id="my-players-table"]/div[1]/div[1]/div[2]/table/tbody/tr[2]/td[2]/a
-# //*[@id="my-players-table"]/div[1]/div[1]/div[2]/table/tbody/tr[2]/td[2]/a
 from lxml import html
 import requests
 import json
