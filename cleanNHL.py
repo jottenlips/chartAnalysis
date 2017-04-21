@@ -7,6 +7,10 @@ import json, requests
 
 import os
 
+teams = ['Atlantic  Division', 'Montreal', 'Ottawa', 'Toronto', 'Florida', 'Boston', 'Tampa Bay', 'Buffalo', 'Detroit',
+ 'Metropolitan  Division', 'Washington', 'Pittsburgh','Columbus', 'N.Y. Rangers', 'N.Y. Islanders', 'Philadelphia',
+ 'New Jersey', 'Carolina', 'Central  Division','Minnesota', 'Chicago', 'St. Louis', 'Nashville', 'Winnipeg', 'Dallas',
+  'Colorado', 'Pacific  Division', 'San Jose', 'Edmonton', 'Anaheim', 'Calgary', 'Los Angeles', 'Vancouver', 'Arizona']
 
 filename = '/Users/johnottenlips/chartAnalysis/json/2017-02-23.nhlstandings.json'
 #filename = 'C:\Users\username\pathToFile\fileName.json'
@@ -38,6 +42,7 @@ for fileName in fileNames:
 print(jsonData[0])
 for i in range(len(jsonData)):
     for j in range(len(jsonData[i])):
+        jsonData[i][j]["Team"] = teams[j]
         try:
             if "Division" in jsonData[i][j]["Team"]:
                 division = jsonData[i][j]["Team"]
@@ -55,7 +60,7 @@ print(i," ", j)
 print(len(fileNames))
 for i in range(len(jsonData)):
     response = jsonData[i]
-    with open("/Users/johnottenlips/chartAnalysis/cleanjson/"+"clean"+fileNames[i].split("/json/")[1], 'w') as outfile:
+    with open("/Users/johnottenlips/chartAnalysis/cleanjson2/"+"clean"+fileNames[i].split("/json/")[1], 'w') as outfile:
         json.dump(response, outfile, sort_keys=True, indent=2)
         outfile.close()
 
