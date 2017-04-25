@@ -1,0 +1,1010 @@
+[
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "David Pastrnak",
+    "points": "2",
+    "team": "BOS",
+    "toi": "20:31"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sean Couturier",
+    "points": "2",
+    "team": "PHI",
+    "toi": "18:38"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ryan Getzlaf",
+    "points": "2",
+    "team": "ANA",
+    "toi": "21:21"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Dale Weise",
+    "points": "2",
+    "team": "PHI",
+    "toi": "12:48"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Brad Marchand",
+    "points": "2",
+    "team": "BOS",
+    "toi": "21:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Brayden Schenn",
+    "points": "2",
+    "team": "PHI",
+    "toi": "18:38"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Andreas Athanasiou",
+    "points": "1",
+    "team": "DET",
+    "toi": "12:27"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Beleskey",
+    "points": "1",
+    "team": "BOS",
+    "toi": "12:26"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "J.T. Compher",
+    "points": "1",
+    "team": "COL",
+    "toi": "10:36"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Duchene",
+    "points": "1",
+    "team": "COL",
+    "toi": "16:25"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Claude Giroux",
+    "points": "1",
+    "team": "PHI",
+    "toi": "18:11"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Dougie Hamilton",
+    "points": "1",
+    "team": "CGY",
+    "toi": "18:42"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Wayne Simmonds",
+    "points": "1",
+    "team": "PHI",
+    "toi": "18:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "David Backes",
+    "points": "1",
+    "team": "BOS",
+    "toi": "11:44"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ivan Barbashev",
+    "points": "1",
+    "team": "STL",
+    "toi": "9:55"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Alex Chiasson",
+    "points": "1",
+    "team": "CGY",
+    "toi": "10:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Rickard Rakell",
+    "points": "1",
+    "team": "ANA",
+    "toi": "17:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Carl Soderberg",
+    "points": "1",
+    "team": "COL",
+    "toi": "12:59"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Zdeno Chara",
+    "points": "1",
+    "team": "BOS",
+    "toi": "23:46"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "David Krejci",
+    "points": "1",
+    "team": "BOS",
+    "toi": "16:29"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ryan Spooner",
+    "points": "1",
+    "team": "BOS",
+    "toi": "14:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Drew Stafford",
+    "points": "1",
+    "team": "BOS",
+    "toi": "14:56"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Justin Abdelkader",
+    "points": "1",
+    "team": "DET",
+    "toi": "18:42"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Francois Beauchemin",
+    "points": "1",
+    "team": "COL",
+    "toi": "22:03"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Pierre-Edouard Bellemare",
+    "points": "1",
+    "team": "PHI",
+    "toi": "10:51"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Andrew Cogliano",
+    "points": "1",
+    "team": "ANA",
+    "toi": "13:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Gabriel Landeskog",
+    "points": "1",
+    "team": "COL",
+    "toi": "15:56"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Magnus Paajarvi",
+    "points": "1",
+    "team": "STL",
+    "toi": "11:25"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ivan Provorov",
+    "points": "1",
+    "team": "PHI",
+    "toi": "27:17"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Lance Bouma",
+    "points": "1",
+    "team": "CGY",
+    "toi": "10:07"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Blake Comeau",
+    "points": "1",
+    "team": "COL",
+    "toi": "14:24"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Shayne Gostisbehere",
+    "points": "1",
+    "team": "PHI",
+    "toi": "16:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "John Mitchell",
+    "points": "1",
+    "team": "COL",
+    "toi": "13:44"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Stajan",
+    "points": "1",
+    "team": "CGY",
+    "toi": "10:52"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Fedor Tyutin",
+    "points": "1",
+    "team": "COL",
+    "toi": "18:23"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Patrice Bergeron",
+    "points": "1",
+    "team": "BOS",
+    "toi": "19:45"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Dylan Larkin",
+    "points": "1",
+    "team": "DET",
+    "toi": "14:20"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Radko Gudas",
+    "points": "0",
+    "team": "PHI",
+    "toi": "19:25"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Hampus Lindholm",
+    "points": "0",
+    "team": "ANA",
+    "toi": "25:53"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Josh Manson",
+    "points": "0",
+    "team": "ANA",
+    "toi": "22:26"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mark Barberio",
+    "points": "0",
+    "team": "COL",
+    "toi": "19:43"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Robert Bortuzzo",
+    "points": "0",
+    "team": "STL",
+    "toi": "12:47"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Rene Bourque",
+    "points": "0",
+    "team": "COL",
+    "toi": "15:03"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Brandon Carlo",
+    "points": "0",
+    "team": "BOS",
+    "toi": "20:31"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Joe Colborne",
+    "points": "0",
+    "team": "COL",
+    "toi": "9:22"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Michael Del Zotto",
+    "points": "0",
+    "team": "PHI",
+    "toi": "20:49"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Patrick Eaves",
+    "points": "0",
+    "team": "ANA",
+    "toi": "14:53"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mark Giordano",
+    "points": "0",
+    "team": "CGY",
+    "toi": "20:54"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mikhail Grigorenko",
+    "points": "0",
+    "team": "COL",
+    "toi": "10:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jimmy Hayes",
+    "points": "0",
+    "team": "BOS",
+    "toi": "8:57"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Erik Johnson",
+    "points": "0",
+    "team": "COL",
+    "toi": "21:29"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Anton Lindholm",
+    "points": "0",
+    "team": "COL",
+    "toi": "14:22"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Andrew MacDonald",
+    "points": "0",
+    "team": "PHI",
+    "toi": "21:59"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Adam McQuaid",
+    "points": "0",
+    "team": "BOS",
+    "toi": "20:30"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Xavier Ouellet",
+    "points": "0",
+    "team": "DET",
+    "toi": "17:21"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nick Schultz",
+    "points": "0",
+    "team": "PHI",
+    "toi": "12:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Frank Vatrano",
+    "points": "0",
+    "team": "BOS",
+    "toi": "14:49"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sven Andrighetto",
+    "points": "0",
+    "team": "COL",
+    "toi": "19:30"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mikael Backlund",
+    "points": "0",
+    "team": "CGY",
+    "toi": "20:05"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Tyson Barrie",
+    "points": "0",
+    "team": "COL",
+    "toi": "24:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jared Boll",
+    "points": "0",
+    "team": "ANA",
+    "toi": "7:41"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nick Bonino",
+    "points": "0",
+    "team": "PIT",
+    "toi": "12:13"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jay Bouwmeester",
+    "points": "0",
+    "team": "STL",
+    "toi": "21:41"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Kyle Brodziak",
+    "points": "0",
+    "team": "STL",
+    "toi": "14:50"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nick Cousins",
+    "points": "0",
+    "team": "PHI",
+    "toi": "8:52"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Cullen",
+    "points": "0",
+    "team": "PIT",
+    "toi": "15:15"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Joel Edmundson",
+    "points": "0",
+    "team": "STL",
+    "toi": "18:07"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Valtteri Filppula",
+    "points": "0",
+    "team": "PHI",
+    "toi": "19:57"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Cam Fowler",
+    "points": "0",
+    "team": "ANA",
+    "toi": "22:24"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Michael Frolik",
+    "points": "0",
+    "team": "CGY",
+    "toi": "19:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Luke Glendening",
+    "points": "0",
+    "team": "DET",
+    "toi": "10:04"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mike Green",
+    "points": "0",
+    "team": "DET",
+    "toi": "23:16"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Carl Gunnarsson",
+    "points": "0",
+    "team": "STL",
+    "toi": "14:06"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ron Hainsey",
+    "points": "0",
+    "team": "PIT",
+    "toi": "10:16"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ryan Kesler",
+    "points": "0",
+    "team": "ANA",
+    "toi": "23:14"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Travis Konecny",
+    "points": "0",
+    "team": "PHI",
+    "toi": "16:58"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Torey Krug",
+    "points": "0",
+    "team": "BOS",
+    "toi": "20:27"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Tom Kuhnhackl",
+    "points": "0",
+    "team": "PIT",
+    "toi": "10:46"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Chris Kunitz",
+    "points": "0",
+    "team": "PIT",
+    "toi": "14:06"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nathan MacKinnon",
+    "points": "0",
+    "team": "COL",
+    "toi": "20:46"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Colin Miller",
+    "points": "0",
+    "team": "BOS",
+    "toi": "13:16"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Drew Miller",
+    "points": "0",
+    "team": "DET",
+    "toi": "7:38"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Kevan Miller",
+    "points": "0",
+    "team": "BOS",
+    "toi": "17:29"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Dominic Moore",
+    "points": "0",
+    "team": "BOS",
+    "toi": "11:16"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Riley Nash",
+    "points": "0",
+    "team": "BOS",
+    "toi": "11:19"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Frans Nielsen",
+    "points": "0",
+    "team": "DET",
+    "toi": "18:12"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mikko Rantanen",
+    "points": "0",
+    "team": "COL",
+    "toi": "19:19"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Read",
+    "points": "0",
+    "team": "PHI",
+    "toi": "7:27"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ryan Reaves",
+    "points": "0",
+    "team": "STL",
+    "toi": "9:22"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nick Ritchie",
+    "points": "0",
+    "team": "ANA",
+    "toi": "9:17"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Carter Rowney",
+    "points": "0",
+    "team": "PIT",
+    "toi": "10:24"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Riley Sheahan",
+    "points": "0",
+    "team": "DET",
+    "toi": "10:29"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jakob Silfverberg",
+    "points": "0",
+    "team": "ANA",
+    "toi": "16:39"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Alex Steen",
+    "points": "0",
+    "team": "STL",
+    "toi": "20:58"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Mark Streit",
+    "points": "0",
+    "team": "PIT",
+    "toi": "20:22"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Oskar Sundqvist",
+    "points": "0",
+    "team": "PIT",
+    "toi": "11:09"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nate Thompson",
+    "points": "0",
+    "team": "ANA",
+    "toi": "9:34"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matthew Tkachuk",
+    "points": "0",
+    "team": "CGY",
+    "toi": "18:05"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Scottie Upshall",
+    "points": "0",
+    "team": "STL",
+    "toi": "12:39"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Chris VandeVelde",
+    "points": "0",
+    "team": "PHI",
+    "toi": "10:13"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sami Vatanen",
+    "points": "0",
+    "team": "ANA",
+    "toi": "23:24"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jakub Voracek",
+    "points": "0",
+    "team": "PHI",
+    "toi": "16:59"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Chris Wagner",
+    "points": "0",
+    "team": "ANA",
+    "toi": "11:06"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Scott Wilson",
+    "points": "0",
+    "team": "PIT",
+    "toi": "10:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nail Yakupov",
+    "points": "0",
+    "team": "STL",
+    "toi": "9:08"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Patrik Berglund",
+    "points": "0",
+    "team": "STL",
+    "toi": "15:21"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Kevin Bieksa",
+    "points": "0",
+    "team": "ANA",
+    "toi": "15:18"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "T.J. Brodie",
+    "points": "0",
+    "team": "CGY",
+    "toi": "23:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Ian Cole",
+    "points": "0",
+    "team": "PIT",
+    "toi": "24:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Brian Dumoulin",
+    "points": "0",
+    "team": "PIT",
+    "toi": "17:55"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Deryk Engelland",
+    "points": "0",
+    "team": "CGY",
+    "toi": "22:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Darren Helm",
+    "points": "0",
+    "team": "DET",
+    "toi": "16:13"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Korbinian Holzer",
+    "points": "0",
+    "team": "ANA",
+    "toi": "10:48"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Nick Jensen",
+    "points": "0",
+    "team": "DET",
+    "toi": "17:40"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Phil Kessel",
+    "points": "0",
+    "team": "PIT",
+    "toi": "14:39"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Niklas Kronwall",
+    "points": "0",
+    "team": "DET",
+    "toi": "22:34"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Evgeni Malkin",
+    "points": "0",
+    "team": "PIT",
+    "toi": "17:24"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Anthony Mantha",
+    "points": "0",
+    "team": "DET",
+    "toi": "13:23"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sean Monahan",
+    "points": "0",
+    "team": "CGY",
+    "toi": "18:27"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Colton Parayko",
+    "points": "0",
+    "team": "STL",
+    "toi": "20:20"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "David Perron",
+    "points": "0",
+    "team": "STL",
+    "toi": "15:00"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Corey Perry",
+    "points": "0",
+    "team": "ANA",
+    "toi": "16:38"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Alex Pietrangelo",
+    "points": "0",
+    "team": "STL",
+    "toi": "27:23"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Robbie Russo",
+    "points": "0",
+    "team": "DET",
+    "toi": "16:34"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jaden Schwartz",
+    "points": "0",
+    "team": "STL",
+    "toi": "21:05"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Paul Stastny",
+    "points": "0",
+    "team": "STL",
+    "toi": "20:05"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Vladimir Tarasenko",
+    "points": "0",
+    "team": "STL",
+    "toi": "19:56"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Tomas Tatar",
+    "points": "0",
+    "team": "DET",
+    "toi": "16:58"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Antoine Vermette",
+    "points": "0",
+    "team": "ANA",
+    "toi": "12:39"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Kris Versteeg",
+    "points": "0",
+    "team": "CGY",
+    "toi": "14:36"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sam Bennett",
+    "points": "0",
+    "team": "CGY",
+    "toi": "11:39"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Troy Brouwer",
+    "points": "0",
+    "team": "CGY",
+    "toi": "14:13"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Sidney Crosby",
+    "points": "0",
+    "team": "PIT",
+    "toi": "20:59"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Danny DeKeyser",
+    "points": "0",
+    "team": "DET",
+    "toi": "19:57"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Micheal Ferland",
+    "points": "0",
+    "team": "CGY",
+    "toi": "14:32"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Johnny Gaudreau",
+    "points": "0",
+    "team": "CGY",
+    "toi": "18:52"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Gustav Nyquist",
+    "points": "0",
+    "team": "DET",
+    "toi": "19:12"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Chad Ruhwedel",
+    "points": "0",
+    "team": "PIT",
+    "toi": "20:47"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Justin Schultz",
+    "points": "0",
+    "team": "PIT",
+    "toi": "23:30"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Conor Sheary",
+    "points": "0",
+    "team": "PIT",
+    "toi": "18:17"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Henrik Zetterberg",
+    "points": "0",
+    "team": "DET",
+    "toi": "19:43"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Matt Bartkowski",
+    "points": "0",
+    "team": "CGY",
+    "toi": "15:34"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Jake Guentzel",
+    "points": "0",
+    "team": "PIT",
+    "toi": "20:17"
+  },
+  {
+    "Date Pulled": "2017-03-15",
+    "name": "Dennis Wideman",
+    "points": "0",
+    "team": "CGY",
+    "toi": "15:43"
+  }
+]

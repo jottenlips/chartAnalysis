@@ -60,7 +60,7 @@ for i in range(len(dates)):
     print(response[i])
 
 for i in range(len(response)):
-    with open("/Users/johnottenlips/chartAnalysis/nhlLeadersJSON/"+dates[i][0]+"-"+dates[i][1]+"-"+dates[i][2]+".nhlLeaders", 'w') as outfile:
+    with open("/Users/johnottenlips/chartAnalysis/nhlLeadersJson2/"+dates[i][0]+"-"+dates[i][1]+"-"+dates[i][2]+".nhlLeaders"+".json", 'w') as outfile:
         json.dump(response[i], outfile, sort_keys=True, indent=2)
     outfile.close()
 

@@ -1,0 +1,506 @@
+[
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Sean Kuraly",
+    "points": "2",
+    "team": "BOS",
+    "toi": "18:03"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "David Backes",
+    "points": "2",
+    "team": "BOS",
+    "toi": "22:51"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Jean-Gabriel Pageau",
+    "points": "1",
+    "team": "OTT",
+    "toi": "22:56"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "David Pastrnak",
+    "points": "1",
+    "team": "BOS",
+    "toi": "28:51"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Mark Stone",
+    "points": "1",
+    "team": "OTT",
+    "toi": "31:02"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Auston Matthews",
+    "points": "1",
+    "team": "TOR",
+    "toi": "19:34"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "T.J. Oshie",
+    "points": "1",
+    "team": "WSH",
+    "toi": "22:22"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Justin Williams",
+    "points": "1",
+    "team": "WSH",
+    "toi": "14:49"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Mike Hoffman",
+    "points": "1",
+    "team": "OTT",
+    "toi": "29:10"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Charlie McAvoy",
+    "points": "1",
+    "team": "BOS",
+    "toi": "31:14"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Viktor Stalberg",
+    "points": "1",
+    "team": "OTT",
+    "toi": "16:43"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Nicklas Backstrom",
+    "points": "1",
+    "team": "WSH",
+    "toi": "19:39"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Patrice Bergeron",
+    "points": "1",
+    "team": "BOS",
+    "toi": "29:38"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Derick Brassard",
+    "points": "1",
+    "team": "OTT",
+    "toi": "30:35"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Alexandre Burrows",
+    "points": "1",
+    "team": "OTT",
+    "toi": "24:47"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Zach Hyman",
+    "points": "1",
+    "team": "TOR",
+    "toi": "17:58"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Marcus Johansson",
+    "points": "1",
+    "team": "WSH",
+    "toi": "17:43"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Evgeny Kuznetsov",
+    "points": "1",
+    "team": "WSH",
+    "toi": "17:01"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Brad Marchand",
+    "points": "1",
+    "team": "BOS",
+    "toi": "31:43"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Joseph Morrow",
+    "points": "1",
+    "team": "BOS",
+    "toi": "29:54"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "William Nylander",
+    "points": "1",
+    "team": "TOR",
+    "toi": "17:43"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Kevin Shattenkirk",
+    "points": "1",
+    "team": "WSH",
+    "toi": "16:26"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Cody Ceci",
+    "points": "0",
+    "team": "OTT",
+    "toi": "32:11"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Kevan Miller",
+    "points": "0",
+    "team": "BOS",
+    "toi": "33:59"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Dion Phaneuf",
+    "points": "0",
+    "team": "OTT",
+    "toi": "34:46"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Tim Schaller",
+    "points": "0",
+    "team": "BOS",
+    "toi": "18:59"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Frank Vatrano",
+    "points": "0",
+    "team": "BOS",
+    "toi": "15:03"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Jay Beagle",
+    "points": "0",
+    "team": "WSH",
+    "toi": "12:16"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Brian Boyle",
+    "points": "0",
+    "team": "TOR",
+    "toi": "11:52"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Tyler Bozak",
+    "points": "0",
+    "team": "TOR",
+    "toi": "16:01"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Connor Brown",
+    "points": "0",
+    "team": "TOR",
+    "toi": "19:22"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Andre Burakovsky",
+    "points": "0",
+    "team": "WSH",
+    "toi": "11:56"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "John Carlson",
+    "points": "0",
+    "team": "WSH",
+    "toi": "23:17"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Connor Carrick",
+    "points": "0",
+    "team": "TOR",
+    "toi": "6:31"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Zdeno Chara",
+    "points": "0",
+    "team": "BOS",
+    "toi": "36:46"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Brett Connolly",
+    "points": "0",
+    "team": "WSH",
+    "toi": "6:12"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Lars Eller",
+    "points": "0",
+    "team": "WSH",
+    "toi": "13:59"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Jake Gardiner",
+    "points": "0",
+    "team": "TOR",
+    "toi": "25:32"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Matt Hunwick",
+    "points": "0",
+    "team": "TOR",
+    "toi": "22:31"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Nazem Kadri",
+    "points": "0",
+    "team": "TOR",
+    "toi": "15:42"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Kasperi Kapanen",
+    "points": "0",
+    "team": "TOR",
+    "toi": "9:02"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Erik Karlsson",
+    "points": "0",
+    "team": "OTT",
+    "toi": "41:51"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Chris Kelly",
+    "points": "0",
+    "team": "OTT",
+    "toi": "7:10"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Leo Komarov",
+    "points": "0",
+    "team": "TOR",
+    "toi": "19:13"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "David Krejci",
+    "points": "0",
+    "team": "BOS",
+    "toi": "6:21"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "John-Michael Liles",
+    "points": "0",
+    "team": "BOS",
+    "toi": "21:35"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Clarke MacArthur",
+    "points": "0",
+    "team": "OTT",
+    "toi": "13:37"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Martin Marincin",
+    "points": "0",
+    "team": "TOR",
+    "toi": "13:56"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Mitch Marner",
+    "points": "0",
+    "team": "TOR",
+    "toi": "14:29"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Matt Martin",
+    "points": "0",
+    "team": "TOR",
+    "toi": "7:46"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Colin Miller",
+    "points": "0",
+    "team": "BOS",
+    "toi": "23:28"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Matt Niskanen",
+    "points": "0",
+    "team": "WSH",
+    "toi": "22:26"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Dmitry Orlov",
+    "points": "0",
+    "team": "WSH",
+    "toi": "22:34"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Brooks Orpik",
+    "points": "0",
+    "team": "WSH",
+    "toi": "16:41"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Alex Ovechkin",
+    "points": "0",
+    "team": "WSH",
+    "toi": "19:29"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Morgan Rielly",
+    "points": "0",
+    "team": "TOR",
+    "toi": "24:34"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Nate Schmidt",
+    "points": "0",
+    "team": "WSH",
+    "toi": "17:22"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Drew Stafford",
+    "points": "0",
+    "team": "BOS",
+    "toi": "19:20"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "James van Riemsdyk",
+    "points": "0",
+    "team": "TOR",
+    "toi": "14:44"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Tom Wilson",
+    "points": "0",
+    "team": "WSH",
+    "toi": "10:16"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Daniel Winnik",
+    "points": "0",
+    "team": "WSH",
+    "toi": "10:52"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Nikita Zaitsev",
+    "points": "0",
+    "team": "TOR",
+    "toi": "22:13"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Noel Acciari",
+    "points": "0",
+    "team": "BOS",
+    "toi": "28:13"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Ryan Dzingel",
+    "points": "0",
+    "team": "OTT",
+    "toi": "15:13"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Ben Harpur",
+    "points": "0",
+    "team": "OTT",
+    "toi": "26:49"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Marc Methot",
+    "points": "0",
+    "team": "OTT",
+    "toi": "27:39"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Dominic Moore",
+    "points": "0",
+    "team": "BOS",
+    "toi": "20:51"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Riley Nash",
+    "points": "0",
+    "team": "BOS",
+    "toi": "22:48"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Bobby Ryan",
+    "points": "0",
+    "team": "OTT",
+    "toi": "23:40"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Zack Smith",
+    "points": "0",
+    "team": "OTT",
+    "toi": "26:08"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Kyle Turris",
+    "points": "0",
+    "team": "OTT",
+    "toi": "28:00"
+  },
+  {
+    "Date Pulled": "2017-04-21",
+    "name": "Chris Wideman",
+    "points": "0",
+    "team": "OTT",
+    "toi": "11:21"
+  }
+]
